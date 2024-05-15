@@ -1,7 +1,7 @@
 # sunbase-assignment
 ## Installation:
 
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://nishapalan.github.io/sunbase-assignment/
 2. Navigate to the project directory: cd backend/Sunbase-RAG-Assignment
 3. Build the project: mvn clean install
 4. Start the spring project
